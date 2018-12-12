@@ -46,6 +46,6 @@
 	**Content:** “Request Failed”
 
 * **Sample Call**
-	curl -X POST -H "Content-Type: application/json" -d '{"something": "blabla"}' http://3.121.223.3/api/res
+	curl -X POST -H "Content-Type: application/json" -d '{"something": "blabla"}' http://3.121.223.3/api/resource
 
  
